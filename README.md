@@ -2,7 +2,8 @@
 
 ## Social Buzz Data Analysis Project
 ### Overview
-Welcome to the Social Buzz Data Analysis Project! This project aims to analyze the content categories on Social Buzz and identify the top 5 categories with the largest popularity scores. This repository contains all necessary data files, the data model, and the steps followed to complete this analysis.
+Welcome to the Social Buzz Data Analysis Project! 
+This project aims to analyze the content categories on Social Buzz and identify the top 5 categories with the largest popularity scores. This repository contains all necessary data files, the data model, and the steps followed to complete this analysis.
 
 ### Project Objectives
 Understand the Data: We have seven datasets and a data model that shows relationships between these datasets. The goal is to identify which datasets are necessary to answer our business question.
@@ -27,11 +28,11 @@ Calculated the total scores for each category to determine the top 5 performing 
 4. Analysis and Visualization
 Generated a cleaned dataset.
 Created a pie chart showing the percentage share of the top 5 categories.
-Analyzed additional insights such as the month with the most posts and the number of unique categories.
+Displays the count of reaction type for the top 5 category.
 ### Results
 Cleaned Dataset: The final dataset containing all necessary information.
 Top 5 Categories: Identified the top 5 categories with the highest popularity scores.
 Visualizations
 Pie Chart: Shows the percentage share of the top 5 content categories.
-Bar Chart: Displays the number of posts per month.
-Additional Insights: Including the month with the most posts and the number of unique categories.
+Bar Chart: Displays the count of reaction type for the top 5 category.
+
